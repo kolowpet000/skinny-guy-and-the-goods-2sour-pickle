@@ -1,5 +1,6 @@
 {
     "name": "Skinny Guy and THE Goods 2.sour pickle",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
